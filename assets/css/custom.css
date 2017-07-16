@@ -1,0 +1,10 @@
+.iconImage {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.doubleIconImage {
+  width: 200px;
+  height: 100px;
+}
