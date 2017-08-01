@@ -8,3 +8,9 @@
   width: 200px;
   height: 100px;
 }
+
+@media only screen and (max-device-width: 480px) {
+  .instagram {
+    display: none;
+  }
+}
